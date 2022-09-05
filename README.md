@@ -1,5 +1,5 @@
 # used-car-price-prediction
-Building a linear regression model to predict the price of used cars
+## Building a Linear Regression Model to Predict the Price of Used Cars.
 
 Hello people! I'm Goriola. 
 This is a personal project in which I build a linear regression model to predict the price of used cars.
