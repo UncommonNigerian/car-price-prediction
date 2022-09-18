@@ -1,4 +1,4 @@
-# used-car-price-prediction
+# car-price-prediction
 ## Building a Linear Regression Model to Predict the Price of Used Cars.
 
 Hello people! I'm Goriola. 
